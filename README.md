@@ -9,7 +9,7 @@ Key Features
     Modular and Scalable: Customizable SQL modules to adapt to evolving support needs
 
 
-Partial Schema of the Boom Accounting System Database
+#Partial Schema of the Boom Accounting System Database
 
 
 ![11](https://github.com/user-attachments/assets/6531712c-cc6c-4898-896c-cc440c9a28e7)
